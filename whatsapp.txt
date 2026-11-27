@@ -4,3 +4,4 @@
 2.chat code
 3.last seen code
 4.attachment(video, audio, mx3)
+5.last seen hiding 
