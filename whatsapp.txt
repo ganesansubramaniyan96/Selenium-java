@@ -5,3 +5,5 @@
 3.last seen code
 4.attachment(video, audio, mx3)
 5.last seen hiding 
+6.adding the video call feature
+7.adding the audio call feature
